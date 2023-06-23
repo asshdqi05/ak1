@@ -1,0 +1,88 @@
+CRITICAL - 2022-08-16 02:48:16 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(23): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-16 02:48:21 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(23): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-16 02:48:26 --> Trying to get property 'id_pencaker' of non-object
+#0 C:\laragon\www\ak1\app\Views\terima_kerja\V_terima_kerja.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 16, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('terima_kerja/V_...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_terima_kerja.php(21): view('terima_kerja/V_...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_terima_kerja->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_terima_kerja))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-16 02:48:27 --> Trying to get property 'id_pencaker' of non-object
+#0 C:\laragon\www\ak1\app\Views\terima_kerja\V_terima_kerja.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 16, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('terima_kerja/V_...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_terima_kerja.php(21): view('terima_kerja/V_...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_terima_kerja->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_terima_kerja))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-16 02:48:28 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(23): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-16 02:48:29 --> Trying to get property 'id_pencaker' of non-object
+#0 C:\laragon\www\ak1\app\Views\terima_kerja\V_terima_kerja.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 16, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('terima_kerja/V_...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_terima_kerja.php(21): view('terima_kerja/V_...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_terima_kerja->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_terima_kerja))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-16 02:48:30 --> Trying to get property 'id_pencaker' of non-object
+#0 C:\laragon\www\ak1\app\Views\terima_kerja\V_terima_kerja.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 16, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('terima_kerja/V_...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_terima_kerja.php(21): view('terima_kerja/V_...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_terima_kerja->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_terima_kerja))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-16 02:51:28 --> Trying to get property 'id_pencaker' of non-object
+#0 C:\laragon\www\ak1\app\Views\terima_kerja\V_terima_kerja.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 16, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('terima_kerja/V_...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_terima_kerja.php(21): view('terima_kerja/V_...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_terima_kerja->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_terima_kerja))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

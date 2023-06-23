@@ -1,0 +1,343 @@
+CRITICAL - 2022-04-18 01:11:55 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(19): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 01:11:59 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(19): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 01:12:02 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(19): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 01:12:03 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(19): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 01:12:03 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(19): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 01:12:05 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(19): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-18 01:32:49 --> Unknown column 'id_pencaker' in 'where clause'
+CRITICAL - 2022-04-18 01:32:49 --> Unknown column 'id_pencaker' in 'where clause'
+#0 C:\laragon\www\ak1\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\ak1\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\ak1\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1588): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(80): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 02:05:37 --> Trying to get property 'pas_foto' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 24, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(81): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-18 02:47:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'NULL'
+WHERE `id_pencaker` = '7'' at line 1
+CRITICAL - 2022-04-18 02:47:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'NULL'
+WHERE `id_pencaker` = '7'' at line 1
+#0 C:\laragon\www\ak1\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `berkas_...', 0)
+#1 C:\laragon\www\ak1\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berkas_...')
+#2 C:\laragon\www\ak1\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berkas_...')
+#3 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `berkas_...', Array, false)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(95): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->hapus_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-18 02:48:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= NULL
+WHERE `id_pencaker` = '7'' at line 1
+CRITICAL - 2022-04-18 02:48:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= NULL
+WHERE `id_pencaker` = '7'' at line 1
+#0 C:\laragon\www\ak1\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `berkas_...', 0)
+#1 C:\laragon\www\ak1\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berkas_...')
+#2 C:\laragon\www\ak1\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berkas_...')
+#3 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `berkas_...', Array, false)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(95): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->hapus_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-18 02:48:36 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''
+WHERE `id_pencaker` = '7'' at line 1
+CRITICAL - 2022-04-18 02:48:36 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''
+WHERE `id_pencaker` = '7'' at line 1
+#0 C:\laragon\www\ak1\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `berkas_...', 0)
+#1 C:\laragon\www\ak1\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berkas_...')
+#2 C:\laragon\www\ak1\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berkas_...')
+#3 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `berkas_...', Array, false)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(95): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->hapus_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 02:51:10 --> You must use the "set" method to update an entry.
+#0 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1892): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(95): CodeIgniter\Database\BaseBuilder->update(NULL, Array)
+#2 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->hapus_berkas()
+#3 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#4 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-18 03:05:49 --> You must use the "set" method to update an entry.
+#0 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1892): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(99): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->hapus_berkas()
+#3 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#4 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-18 03:06:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''
+WHERE `id_pencaker` = '7'' at line 1
+CRITICAL - 2022-04-18 03:06:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''
+WHERE `id_pencaker` = '7'' at line 1
+#0 C:\laragon\www\ak1\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `berkas_...', 0)
+#1 C:\laragon\www\ak1\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berkas_...')
+#2 C:\laragon\www\ak1\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berkas_...')
+#3 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `berkas_...', Array, false)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(95): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->hapus_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-18 03:07:48 --> Unknown column 'pas_photo' in 'field list'
+CRITICAL - 2022-04-18 03:07:48 --> Unknown column 'pas_photo' in 'field list'
+#0 C:\laragon\www\ak1\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `berkas_...', 0)
+#1 C:\laragon\www\ak1\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berkas_...')
+#2 C:\laragon\www\ak1\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berkas_...')
+#3 C:\laragon\www\ak1\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `berkas_...', Array, false)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(95): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->hapus_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:32 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(20): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:42 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:43 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:45 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:45 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:46 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:47 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(20): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:48 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:48 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:48 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:49 --> Trying to get property 'id' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_berkas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(86): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->upload_berkas()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:52 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(20): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:23:56 --> Undefined variable: level
+#0 C:\laragon\www\ak1\app\Views\template\V_menu.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 25, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\View\View.php(424): CodeIgniter\View\View->render('template/V_menu', NULL, true)
+#4 C:\laragon\www\ak1\app\Views\template\V_main.php(77): CodeIgniter\View\View->include('template/V_menu')
+#5 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#6 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\laragon\www\ak1\system\View\View.php(226): CodeIgniter\View\View->render('template/V_main', Array, true)
+#8 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('V_home_admin', Array, true)
+#9 C:\laragon\www\ak1\app\Controllers\C_home.php(11): view('V_home_admin', Array)
+#10 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_home->index()
+#11 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_home))
+#12 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-04-18 07:23:59 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(20): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-18 07:31:53 --> Trying to get property 'flag' of non-object
+#0 C:\laragon\www\ak1\app\Views\pengajuan_ak1\V_pengajuan_ak1.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 21, Array)
+#1 C:\laragon\www\ak1\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\ak1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\ak1\system\Common.php(1089): CodeIgniter\View\View->render('pengajuan_ak1/V...', Array, true)
+#4 C:\laragon\www\ak1\app\Controllers\C_pengajuan_ak1.php(20): view('pengajuan_ak1/V...', Array)
+#5 C:\laragon\www\ak1\system\CodeIgniter.php(825): App\Controllers\C_pengajuan_ak1->index()
+#6 C:\laragon\www\ak1\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_pengajuan_ak1))
+#7 C:\laragon\www\ak1\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\ak1\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
